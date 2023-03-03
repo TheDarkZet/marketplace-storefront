@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "9beR6A671n5RM6nUPruD62w6DTUERvPXvWWFHvtiMFN3"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "xApiKey": "mw_le6GVfNs1Sw4g5gODkjBDh7mkPPbFeqdfs4",
+  "serviceFee": "4.25",
+  "currencyOption": "SOL",
+  "name": "Zool Verse",
+  "logo": "https://collections.mirrorworld.fun/1677609315887-Tak berjudul3_20211130085210.png",
+  "network": "testnet"
 }
